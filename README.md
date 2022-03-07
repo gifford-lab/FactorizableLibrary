@@ -31,7 +31,7 @@ Using pip:
 pip install -r requirements.txt
 ```
 
-#### Train model in notebook
+#### Train model
 After installing dependencies, open Jupyter notebook: 
 ```
 cd FactorizableLibrary/
@@ -39,7 +39,7 @@ jupyter notebook model_training/TrainModel.ipynb
 ```
 Follow instructions in the notebook to run each cell and train a model. You can use one of the datasets provided in `data/`, or you can generate your own *.pkl data file and replace the path in the execution portion of the notebook. 
 
-#### Generate model in notebook
+#### Generate library
 Once you have trained a model, it should be stored in `weights/`. Next, open the script for library generation. 
 ```
 jupyter notebook library_generation/GenerateLibrary.ipynb
