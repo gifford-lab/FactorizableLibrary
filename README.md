@@ -50,7 +50,5 @@ Follow instructions in the notebook to run each cell and generate a SAPS library
 We have provided demo notebooks in which example models can be trained using pu\
 blicly available Google GPUs for illustrative purposes. These can be accessed h\
 ere:
-- TrainModel-demo: https://colab.research.google.com/drive/1wLpSYQOW_uiTXaaSz_r\
-HVYrtNZEKCbB_?usp=sharing
-- GenerateLibrary-demo: https://colab.research.google.com/drive/1eunbFA1dkTKF6d\
-cp1qu_4rKAPOhG2xmo?usp=sharing
+- TrainModel-demo: https://colab.research.google.com/drive/1wLpSYQOW_uiTXaaSz_rHVYrtNZEKCbB_?usp=sharing
+- GenerateLibrary-demo: https://colab.research.google.com/drive/1eunbFA1dkTKF6dcp1qu_4rKAPOhG2xmo?usp=sharing
