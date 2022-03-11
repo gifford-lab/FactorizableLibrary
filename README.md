@@ -3,12 +3,12 @@
 ## Folder contents
 #### `model_training/`:
 
-- `data/`: contains datasets for each	target presented in manuscript
+- `data/`: contains datasets for all targets presented in manuscript
     - *.csv: sequence data with target enrichment labeled by train/test splits
     - *.pkl: easy	loading	pickle file with train/test splits for training
-- `weights/`: output folder for trained weights
--_TrainModel.ipynb_: notebook containing functions for training scoring models for later use in SAPS
--_encoding.pkl_: sequence encoding used for training
+- `weights/`: output folder for trained weights. Contains all trained weights for models used in Dai & Saksena et al 2022.
+- _TrainModel.ipynb_: notebook containing functions for training scoring models for later use in SAPS
+- _encoding.pkl_: sequence encoding used for training
 
 #### `library_generation`:
 - _GenerateLibrary.ipynb_: notebook containing functions to generate SAPS-designed library 
